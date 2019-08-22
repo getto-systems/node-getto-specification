@@ -2,6 +2,8 @@
 
 predicate factory : caching return value of boolean-returning-function and compose them
 
+status: production ready
+
 ```javascript
 const specification = require("getto-specification");
 
