@@ -1,0 +1,23 @@
+{
+  "name": "getto-specification",
+  "version": "0.0.0",
+  "description": "predicate factory : caching return value of boolean-returning-function and compose them",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --config jest.config.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/getto-systems/node-getto-specification.git"
+  },
+  "author": "shun@getto.systems",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/getto-systems/node-getto-specification/issues"
+  },
+  "homepage": "https://github.com/getto-systems/node-getto-specification#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "jest": "^24.8.0"
+  }
+}
