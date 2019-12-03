@@ -1,6 +1,6 @@
 {
   "name": "getto-specification",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "predicate factory : caching return value of boolean-returning-function and compose them",
   "main": "index.js",
   "scripts": {
